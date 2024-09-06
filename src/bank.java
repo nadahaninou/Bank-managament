@@ -2,7 +2,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+import java.util;
 public  class bank {
     static Scanner sc=new Scanner(System.in);
     public static Customer Customer(){
