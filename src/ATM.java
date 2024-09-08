@@ -2,6 +2,7 @@ public class ATM {
     private  int ATM_ID;
     private String Location;
     private String Status;
+    private String Status;
     private double Cash_Availability;
 
     public ATM(int ATM_ID, String location, String status, double cash_Availability) {
